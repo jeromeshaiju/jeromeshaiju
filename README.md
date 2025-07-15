@@ -54,9 +54,3 @@
 > “Talk is cheap. Show me the code.” – Linus Torvalds
 
 ---
-
-### ⚡ Bonus:
-<!-- Snake GitHub Contribution Graph -->
-<p align="center">
-  <img alt="snake animation" src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
-</p>

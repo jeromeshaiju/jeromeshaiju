@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jerome</h1>
-<h3 align="center">🚀 A passionate future Computer Engineer from India 🚀</h3>
+<h3 align="center">🚀 A passionate human being 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=3DDC84&center=true&vCenter=true&width=435&lines=Full-stack+Developer+%7C+AI+Enthusiast+%7C+Open+Source+Lover;Passionate+about+coding+and+tech+%F0%9F%92%BB;Exploring+the+world+of+CS+one+line+at+a+time" alt="Typing SVG" />

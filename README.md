@@ -23,12 +23,6 @@
 
 ---
 
-### 🚀 Featured Projects:
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🎭 **Poetic Papyrus** | AI that turns PDFs into poems | Python, GPT, LangChain |
-| 🧠 **Neural Notes** | Smart AI study companion | React, Node.js, OpenAI |
-| 🌐 **MiniPortfolio** | Lightweight personal site | HTML/CSS/JS |
 
 ---
 
@@ -44,16 +38,14 @@
 ### 🛠️ Tools I Use:
 - 🤖 ChatGPT + VS Code = 💡
 - 🔧 GitHub Copilot for smarter code
-- 📚 Notion + Obsidian for planning
-- ☕ Chai and late-night debugging
+- 📚 Obsidian for planning
+- ☕ milkshake and late-night debugging
 
 ---
 
 ### 🌐 Connect with Me:
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINK" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/></a>
-  <a href="https://twitter.com/YOUR_HANDLE" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" height="30" /></a>
+  <a href="https://www.instagram.com/jerome.shaiju/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
 </p>
 
 ---

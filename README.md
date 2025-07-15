@@ -28,9 +28,9 @@
 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="Jerome's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeromeshaiju&show_icons=true&theme=tokyonight" alt="Jerome's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeromeshaiju&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---

@@ -9,9 +9,9 @@
 
 ### 💻 About Me:
 - 🌱 I’m currently learning **AI, ML, and Full-Stack Dev**
-- 🎯 Goals: Get into top CS/CE universities and build impactful tech
+- 🎯 Goals: build impactful tech
 - 🧠 I’m obsessed with solving real-world problems with code
-- 💬 Ask me about **Python, Java, AI tools, Web Dev, and AP exams**
+- 💬 Ask me about **Python, Java, AI tools, Web Dev, Flutter Dev**
 - ⚡ Fun fact: I build weird but fun projects (like PDFs into poems!)
 
 ---
@@ -36,8 +36,7 @@
 ---
 
 ### 🛠️ Tools I Use:
-- 🤖 ChatGPT + VS Code = 💡
-- 🔧 GitHub Copilot for smarter code
+- 🔧 Figma for designing
 - 📚 Obsidian for planning
 - ☕ milkshake and late-night debugging
 

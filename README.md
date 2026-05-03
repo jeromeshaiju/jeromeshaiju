@@ -47,7 +47,7 @@
   <a href="https://www.instagram.com/jerome.shaiju/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
 </p>
 <p align="left">
-  <a href="[https://www.instagram.com/jerome.shaiju/](https://www.linkedin.com/in/jerome-shaiju-k-c-6b18922a5/)" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
+  <a href="https://www.linkedin.com/in/jerome-shaiju-k-c-6b18922a5/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
 </p>
 
 ---
